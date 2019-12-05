@@ -1,0 +1,38 @@
+/* pages/test01/test01.wxss */
+.content{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+    border-bottom: 1px solid rgb(189, 185, 182);
+    padding-bottom: 10rpx;
+    margin-bottom: 20rpx;
+}
+.bigimg{
+  width: 100%;
+}
+.minfo{
+  display: flex;
+  flex-direction: row;
+  padding: 10rpx;
+
+}
+.minfo image{
+  width: 64rpx;
+  height: 64rpx;
+  vertical-align:middle;
+}
+.minfo text{
+  margin-left: 10rpx;
+  padding-top: 10rpx;
+}
+.title{
+  font-size:40rpx;
+  font-weight: 700;
+  margin-left: 10rpx;
+  color: #555555;
+}
+.articel{
+  text-indent: 40rpx;
+  color: #666666;
+  padding-bottom: 10rpx;
+}

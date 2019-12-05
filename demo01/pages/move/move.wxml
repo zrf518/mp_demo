@@ -1,0 +1,134 @@
+<!-- <view wx:for="{{[{name:'峰哥'},{name:'月妹'}]}}" > -->
+<!-- <view wx:for="{{items}}" wx:key="index">
+  {{index}}:{{item.name}}
+</view> -->
+<!-- <view>{{cached}}</view> -->
+
+<view>
+
+  <view class="mcontent" bindtap="domoveClick">
+    <image src="../../imgs/moves/m01.jpg" class="moveimg"></image>
+    <view class="minfo">
+      <view class="title">
+        <text>肖申克的救赎 Ths Sh的撒舒服撒发颠三倒四多生</text>
+      </view>
+      <view class="year">
+        <text>年份：1994</text>
+      </view>
+      <view class="daoy">
+        <text>导演：范德萨发的所发司机</text>
+      </view>
+    </view>
+    <view class="rating">
+      <text>9.6</text>
+    </view>
+  </view>
+
+  <view class="mcontent">
+    <image src="../../imgs/moves/m02.jpg" class="moveimg"></image>
+    <view class="minfo">
+      <view class="title">
+        <text>肖申克的救赎 Ths Sh的撒舒服撒发颠三倒四多生</text>
+      </view>
+      <view class="year">
+        <text>年份：1993</text>
+      </view>
+      <view class="daoy">
+        <text>导演：范德萨发的所发司机</text>
+      </view>
+    </view>
+    <view class="rating">
+      <text>9.2</text>
+    </view>
+  </view>
+
+  <view class="mcontent">
+    <image src="../../imgs/moves/m03.jpg" class="moveimg"></image>
+    <view class="minfo">
+      <view class="title">
+        <text>肖申克的救赎 Ths Sh的撒舒服撒发颠三倒四多生</text>
+      </view>
+      <view class="year">
+        <text>年份：1998</text>
+      </view>
+      <view class="daoy">
+        <text>导演：范德萨发的所发司机</text>
+      </view>
+    </view>
+    <view class="rating">
+      <text>9.3</text>
+    </view>
+  </view>
+
+  <view class="mcontent">
+    <image src="../../imgs/moves/m04.jpg" class="moveimg"></image>
+    <view class="minfo">
+      <view class="title">
+        <text>肖申克的救赎 Ths Sh的撒舒服撒发颠三倒四多生</text>
+      </view>
+      <view class="year">
+        <text>年份：1997</text>
+      </view>
+      <view class="daoy">
+        <text>导演：范德萨发的所发司机</text>
+      </view>
+    </view>
+    <view class="rating">
+      <text>9.2</text>
+    </view>
+  </view>
+
+  <view class="mcontent">
+    <image src="../../imgs/moves/m05.jpg" class="moveimg"></image>
+    <view class="minfo">
+      <view class="title">
+        <text>肖申克的救赎 Ths Sh的撒舒服撒发颠三倒四多生</text>
+      </view>
+      <view class="year">
+        <text>年份：1996</text>
+      </view>
+      <view class="daoy">
+        <text>导演：范德萨发的所发司机</text>
+      </view>
+    </view>
+    <view class="rating">
+      <text>9.1</text>
+    </view>
+  </view>
+
+  <view class="mcontent">
+    <image src="../../imgs/moves/m01.jpg" class="moveimg"></image>
+    <view class="minfo">
+      <view class="title">
+        <text>肖申克的救赎 Ths Sh的撒舒服撒发颠三倒四多生</text>
+      </view>
+      <view class="year">
+        <text>年份：2002</text>
+      </view>
+      <view class="daoy">
+        <text>导演：范德萨发的所发司机</text>
+      </view>
+    </view>
+    <view class="rating">
+      <text>9.4</text>
+    </view>
+  </view>
+
+  <view class="mcontent">
+    <image src="../../imgs/moves/m02.jpg" class="moveimg"></image>
+    <view class="minfo">
+      <view class="title">
+        <text>肖申克的救赎 Ths Sh的撒舒服撒发颠三倒四多生</text>
+      </view>
+      <view class="year">
+        <text>年份：2009</text>
+      </view>
+      <view class="daoy">
+        <text>导演：范德萨发的所发司机</text>
+      </view>
+    </view>
+    <view class="rating">
+      <text>9.6</text>
+    </view>
+  </view>
+</view>

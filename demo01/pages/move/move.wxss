@@ -1,0 +1,44 @@
+.mcontent {
+  display: flex;
+  flex-direction: row;
+  padding: 10rpx;
+  border-bottom: 1px solid #ebdfdf;
+  margin-bottom: 10rpx;
+}
+
+.minfo {
+  width: 68%;
+  display: flex;
+  flex-direction: column;
+  padding: 10rpx;
+  padding-top: 0px;
+  margin-top: -8rpx;
+}
+
+.moveimg {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 10rpx;
+}
+
+.title {
+  font-weight: bold;
+  color: #333;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.year {
+  color: #666;
+  font-size: 28rpx;
+  padding: 20rpx 0rpx;
+}
+
+.daoy {
+  color: #444;
+}
+.rating{
+  color: #ff0000;
+  font-weight: bold;
+}
